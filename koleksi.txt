@@ -1,0 +1,12 @@
+https://github.com/jenssegers/laravel-mongodb/issues/334
+https://stackoverflow.com/questions/23034879/db-createuser-is-not-a-function-and-password-cant-be-empty
+https://docs.mongodb.com/manual/tutorial/create-users/
+https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-windows/
+https://www.tutorialspoint.com/mongodb/mongodb_create_database
+https://github.com/jenssegers/laravel-mongodb/issues/797
+https://stackoverflow.com/questions/40914114/how-to-install-a-specific-version-of-package-using-composer/46626079
+https://stackoverflow.com/questions/31547827/lumen-and-mongodb
+https://pecl.php.net/package/mongodb/1.5.4/windows
+https://github.com/jenssegers/laravel-mongodb
+https://hackernoon.com/how-to-use-mongodb-with-your-lumen-api-e13f36fa0aa6
+https://medium.com/@kiddy.xyz/tutorial-crud-lumen-5-4-microframework-restful-api-untuk-laravel-ab2a5783d55
